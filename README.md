@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 💖 I love Java!
+- 🔭 I am currently working on improving my hard and soft skills
 <!--
 **OlgaDorokhova/OlgaDorokhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
